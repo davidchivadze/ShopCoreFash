@@ -16,6 +16,7 @@ namespace Models.AdminPanel.Database.Products
         public int ProductID { get; set; }
         [ForeignKey("ProductSize")]
         public int ProductSizeID { get; set; }
+        [Column(TypeName ="decimal(18,4)")]
         public decimal Price { get; set; }
         public int Count { get; set; }
 

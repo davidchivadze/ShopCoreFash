@@ -25,7 +25,7 @@ namespace Database
 
             base.OnConfiguring(optionsBuilder);
 
-            optionsBuilder.UseSqlServer("Data Source=DESKTOP-1NDTU6P\\SQLEXPRESS;Database=Shop;Integrated Security=True");
+            optionsBuilder.UseSqlServer("Data Source=localhost\\SQLEXPRESS;Database=ShopCore;Integrated Security=True");
         }
 
 

@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopCore", "..\ShopCoreGit\EcommerceCore\ShopCore\ShopCore.csproj", "{0A1F53A5-188E-46AD-99E5-0C4791E8C4A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopCore", ".\ShopCore\ShopCore.csproj", "{0A1F53A5-188E-46AD-99E5-0C4791E8C4A9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "..\ShopCoreGit\EcommerceCore\Models\Models.csproj", "{3240D174-0E18-4108-A908-1EB5763FADCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", ".\Models\Models.csproj", "{3240D174-0E18-4108-A908-1EB5763FADCC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "..\ShopCoreGit\EcommerceCore\Domain\Domain.csproj", "{BDBEDE13-9797-4EE0-A09B-786FF459092A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", ".\Domain\Domain.csproj", "{BDBEDE13-9797-4EE0-A09B-786FF459092A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Buisnes", "..\ShopCoreGit\EcommerceCore\Buisnes\Buisnes.csproj", "{17D82ECB-238A-4204-AAE4-679DDCD7C5A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Buisnes", ".\Buisnes\Buisnes.csproj", "{17D82ECB-238A-4204-AAE4-679DDCD7C5A8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "..\ShopCoreGit\EcommerceCore\Core\Core.csproj", "{AEA1FCE2-D816-408C-A4DA-3C0F8C3D7EB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", ".\Core\Core.csproj", "{AEA1FCE2-D816-408C-A4DA-3C0F8C3D7EB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
